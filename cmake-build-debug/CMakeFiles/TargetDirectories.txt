@@ -1,0 +1,3 @@
+/home/yazi/CLionProjects/worker_mangement/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yazi/CLionProjects/worker_mangement/cmake-build-debug/CMakeFiles/worker_mangement.dir
+/home/yazi/CLionProjects/worker_mangement/cmake-build-debug/CMakeFiles/edit_cache.dir
